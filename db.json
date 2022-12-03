@@ -1,0 +1,108 @@
+[
+    {
+        "orden": 2435,
+        "fecha": "02-11-2022",
+        "vendedor": "Mauricio",
+        "estado": "Pagado",
+        "Total": 5990
+    },
+    {
+        "orden": 2437,
+        "fecha": "02-11-2022",
+        "vendedor": "Ignacio",
+        "estado": "Pagado",
+        "Total": 8990
+    },
+    {
+        "orden": 2440,
+        "fecha": "03-11-2022",
+        "vendedor": "Maria",
+        "estado": "Cancelada",
+        "Total": 5990
+    },
+    {
+        "orden": 2545,
+        "fecha": "03-11-2022",
+        "vendedor": "Mauricio",
+        "estado": "Pagado",
+        "Total": 9990
+    },
+    {
+        "orden": 2547,
+        "fecha": "03-11-2022",
+        "vendedor": "Maria",
+        "estado": "Pagado",
+        "Total": 5990
+    },
+    {
+        "orden": 2550,
+        "fecha": "03-11-2022",
+        "vendedor": "Ignacio",
+        "estado": "Pagado",
+        "Total": 10990
+    },
+    {
+        "orden": 2552,
+        "fecha": "03-11-2022",
+        "vendedor": "Mauricio",
+        "estado": "Pagado",
+        "Total": 11990
+    },
+    {
+        "orden": 2555,
+        "fecha": "03-11-2022",
+        "vendedor": "Maria",
+        "estado": "Pagado",
+        "Total": 4990
+    },
+    {
+        "orden": 2557,
+        "fecha": "04-11-2022",
+        "vendedor": "Mauricio",
+        "estado": "Pagado",
+        "Total": 5990
+    },
+    {
+        "orden": 2559,
+        "fecha": "04-11-2022",
+        "vendedor": "Mauricio",
+        "estado": "Pagado",
+        "Total": 7990
+    },
+    {
+        "orden": 2563,
+        "fecha": "04-11-2022",
+        "vendedor": "Ignacio",
+        "estado": "Cancelada",
+        "Total": 5990
+    },
+    {
+        "orden": 2564,
+        "fecha": "04-11-2022",
+        "vendedor": "Mauricio",
+        "estado": "Pagado",
+        "Total": 12990
+    },
+    {
+        "orden": 2567,
+        "fecha": "05-11-2022",
+        "vendedor": "Mauricio",
+        "estado": "Pagado",
+        "Total": 11990
+    },
+    {
+        "orden": 2568,
+        "fecha": "05-11-2022",
+        "vendedor": "Ignacio",
+        "estado": "Pagado",
+        "Total": 9990
+    },
+    {
+        "orden": 2569,
+        "fecha": "05-11-2022",
+        "vendedor": "Mauricio",
+        "estado": "Pagado",
+        "Total": 12990
+    }
+    
+]
